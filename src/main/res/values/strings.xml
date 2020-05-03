@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Financial_loan_apply</string>
+    <string-array name="Status_Priority">
+        <item>Pilih</item>
+        <item>Pinjaman Mendadak</item>
+        <item>Pinjaman Tidak Mendadak</item>
+    </string-array>
+</resources>
